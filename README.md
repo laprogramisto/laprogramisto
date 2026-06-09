@@ -4,6 +4,11 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-LTS-green?logo=node.js)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=dark)
+
 <!--
 **ItsMeCedric/itsmecedric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
