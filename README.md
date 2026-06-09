@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Odoo](https://img.shields.io/badge/Odoo-19-purple?logo=odoo)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-LTS-green?logo=node.js)
 <!--
 **ItsMeCedric/itsmecedric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
